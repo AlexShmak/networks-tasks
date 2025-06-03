@@ -1,0 +1,5 @@
+zone "math.spbu" {
+    type master; 
+    file "/etc/bind/zones/db.math.spbu"; 
+    allow-transfer { none; }; 
+};
