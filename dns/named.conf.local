@@ -1,0 +1,4 @@
+zone "math.spbu" {
+    type master;
+    file "/etc/bind/db.math.spbu";
+};
